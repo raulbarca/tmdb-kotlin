@@ -27,3 +27,9 @@ licenses:
 
 script:
   ./gradlew runUnitTests
+
+# safelist
+branches:
+  only:
+    - master
+    - development
