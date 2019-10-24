@@ -1,5 +1,5 @@
 # The Movie Database (TMDB) - Android - Clean Architecture - Kotlin
-[![Build Status](https://travis-ci.org/raulbarca/tmdb-kotlin.svg?branch=master)](https://travis-ci.org/raulbarca/tmdb-kotlin)
+[![Build Status](https://travis-ci.com/raulbarca/tmdb-kotlin.svg?branch=master)](https://travis-ci.com/raulbarca/tmdb-kotlin)
 
 This repo uses the principles of Clean Architecture and it's inspired by Fernando Cejas' repo (https://github.com/android10/Android-CleanArchitecture-Kotlin).
 Although it uses Fernando's project structure, it has a different source of data: The Movie Database (TMDB) web services.
