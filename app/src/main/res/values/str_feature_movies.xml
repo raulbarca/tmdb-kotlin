@@ -1,0 +1,11 @@
+<resources>
+    <string name="upcoming_movies_screen_title">Upcoming Movies</string>
+    <string name="movie_details_screen_title">Movie Details</string>
+    <string name="movie_details_overview">Overview</string>
+    <string name="movie_details_status">Status</string>
+    <string name="movie_details_tagline">Tagline</string>
+    <string name="movie_details_runtime">Runtime</string>
+
+    <!-- Animations -->
+    <string name="movie_transition_poster">moviePosterTransition</string>
+</resources>
